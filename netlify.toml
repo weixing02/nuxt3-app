@@ -1,6 +1,6 @@
-[build]
-    command = "nuxt build"
-    publish = "dist"
+# [build]
+#     command = "nuxt build"
+#     publish = "dist"
 
 [[edge_functions]]
     path = "/about"
