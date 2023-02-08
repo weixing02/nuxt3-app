@@ -3,5 +3,5 @@
     publish = "dist"
 
 [[edge_functions]]
-    path = "/hello"
     function = "hello"
+    path = "/test"
