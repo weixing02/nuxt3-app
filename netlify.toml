@@ -1,5 +1,5 @@
 [build]
-    command = "nuxt build"
+    command = "nuxt generate"
     publish = "dist"
 
 [[edge_functions]]
